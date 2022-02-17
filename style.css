@@ -1,4 +1,18 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;}
+h1{color:grey;
+text-align: center;
+text-size:20px ;}
 
+.maindiv
+{
+    font-size: 20px;
+    text-align: center;
+    width: 550px;
+    height: 550px;
+    border-radius: 25px;
+    margin: auto;
+    color: black;
+    background-color: white;
+    padding: 25px;
+}
 
